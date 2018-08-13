@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include frappe_calendar *.css
+recursive-include frappe_calendar *.csv
+recursive-include frappe_calendar *.html
+recursive-include frappe_calendar *.ico
+recursive-include frappe_calendar *.js
+recursive-include frappe_calendar *.json
+recursive-include frappe_calendar *.md
+recursive-include frappe_calendar *.png
+recursive-include frappe_calendar *.py
+recursive-include frappe_calendar *.svg
+recursive-include frappe_calendar *.txt
+recursive-exclude frappe_calendar *.pyc

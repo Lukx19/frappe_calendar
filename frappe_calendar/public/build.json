@@ -1,0 +1,9 @@
+{
+	"css/frappe_calendar.min.css": [
+		"public/css/fullcalendar.min.css",
+		"public/css/fullcalendar.print.css"
+	],
+	"js/frappe_calendar.min.js": [
+		"public/js/calendar.js"
+	]
+}
