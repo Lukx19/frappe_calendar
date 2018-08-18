@@ -4,6 +4,8 @@
 		"public/css/fullcalendar.print.css"
 	],
 	"js/frappe_calendar.min.js": [
+		"node_modules/moment/min/moment-with-locales.min.js",
+		"node_modules/moment-timezone/builds/moment-timezone-with-data.min.js",
 		"public/js/calendar.js"
 	]
 }
